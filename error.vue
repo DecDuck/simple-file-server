@@ -15,3 +15,9 @@
     </div>
   </main>
 </template>
+
+<script setup lang="ts">
+useHead({
+  title: "File not found",
+});
+</script>
